@@ -18,6 +18,7 @@ local.properties
 
 build/
 .gradle
+Horizontallistview.iml
 .idea
 sample/build
 horizontallistview/build
